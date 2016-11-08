@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[标签测试文章]]></title>
+      <url>%2F2016%2F11%2F08%2Ftest-tag%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[看看乱码没有先。。]]></title>
       <url>%2F2016%2F10%2F28%2Ftest%2F</url>
       <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
