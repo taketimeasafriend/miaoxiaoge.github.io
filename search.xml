@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[分类测试文章]]></title>
+      <url>%2F2016%2F11%2F09%2Ftest-categories%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[标签测试文章]]></title>
       <url>%2F2016%2F11%2F08%2Ftest-tag%2F</url>
       <content type="text"></content>
